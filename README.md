@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first HTML Project. I reckon it's about recipes.
